@@ -1,8 +1,7 @@
 
 {"menus": [{"title": "토닥토닥 시리즈", "url": "https://wikidocs.net/book/1637"},
           {"title": "유튜브 \"거꾸로 코딩 - 머신러닝 활용부터 학습까지\" 채널", "url": "https://www.youtube.com/channel/UC06SHsbmzqkO8EV_pW7ilog"},
-          {"title": "머신러닝 학습 + 인공지능 앱 제작 문의", "url": "https://cranberryai.github.io/inquiry/index.html"},
-          {"title": "개발 앱 다운로드", "url": "https://cranberryai.github.io/app/index.html"}
+          {"title": "자동화 프로그램 제작", "url": "https://cranberryai.github.io/app/index.html"}
           ],
  "ads": [{"title": "[앱] 조선협객전M 게임", "url": "https://bit.ly/3ragExB"},
          {"title": "[앱] 빗썸 500만 회원 돌파 기념 투자 지원금 받기", "url": "https://bit.ly/3f38LaU"},
